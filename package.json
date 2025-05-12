@@ -19,10 +19,11 @@
   },
   "name": "polaris",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "polaris.js",
   "scripts": {
     "preinstall": "npm config set python python3 || true",
     "build": "echo 'No build step required'",
+    "start": "node polaris.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
