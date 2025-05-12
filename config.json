@@ -7,7 +7,7 @@
   
   "enableWebServer": true,
   "serverPort": 6880,
-  "siteURL": "https://krupp-production.up.railway.app",
+  "siteURL": "https://krupp.kimmu.org",
   
   "changelogURL": "",
   "supportURL": ""
