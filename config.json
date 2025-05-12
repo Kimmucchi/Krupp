@@ -7,7 +7,7 @@
   
   "enableWebServer": true,
   "serverPort": 6880,
-  "siteURL": "http://krupp-production.up.railway.app",
+  "siteURL": "http://localhost:6880/",
   
   "changelogURL": "",
   "supportURL": ""
